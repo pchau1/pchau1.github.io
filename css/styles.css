@@ -1,0 +1,84 @@
+/*HEADER AND BANNER*/
+.container {
+	width: 100%;
+
+}
+.logo {
+	width: 100%;
+
+}
+hr {
+	width: 50%;
+}
+hr {
+	width: 50%;
+}
+
+/*MAIN SECTION ONE SKETCHES*/
+.sketches {
+	padding: 5px 15px;
+}
+
+.sketches h1 {
+/*	padding:10px;*/
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
+
+}
+/*.sketches h1 {
+
+}
+*/
+.sketches p {
+	margin:15px;
+}
+
+
+/*MAIN SECTION TWO CONCEPTS*/
+.concepts {
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+}
+
+.concepts p {
+	margin:15px;
+}
+
+
+
+/*MAIN SECTION THREE PROGRESS*/
+.progressone {
+	padding: 5px 15px;
+}
+
+.progressone h1 {
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+}
+
+.progressone p {
+	margin:15px;
+}
+
+
+/*EDIT LATER*/
+/*MAIN SECTION THREE PROGRESS*/
+.edit {
+	padding: 5px 15px;
+}
+
+.edit h1 {
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+}
+
+.edit p {
+	margin:15px;
+}
+
+
