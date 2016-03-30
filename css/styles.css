@@ -15,23 +15,18 @@ hr {
 }
 
 /*MAIN SECTION ONE SKETCHES*/
-.sketches {
+.proposal {
 	padding: 5px 15px;
 }
 
-.sketches h1 {
+.proposal h1 {
 /*	padding:10px;*/
 	text-align: center;
 	font-family: 'perfectly amicable', sans-serif;
 	/*border: 1px solid #4D4646;*/
 	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
-
 }
-/*.sketches h1 {
-
-}
-*/
-.sketches p {
+.proposal p {
 	margin:15px;
 }
 
@@ -41,6 +36,7 @@ hr {
 	text-align: center;
 	font-family: 'perfectly amicable', sans-serif;
 	/*border: 1px solid #4D4646;*/
+	
 }
 
 .concepts p {
@@ -50,35 +46,184 @@ hr {
 
 
 /*MAIN SECTION THREE PROGRESS*/
-.progressone {
+.layouts {
 	padding: 5px 15px;
 }
 
-.progressone h1 {
+.layouts h1 {
 	text-align: center;
 	font-family: 'perfectly amicable', sans-serif;
 	/*border: 1px solid #4D4646;*/
+	font-size: 250%;
+	border: 1px hidden #000000;
 }
 
-.progressone p {
+.layouts p {
+	margin:15px;
+}
+.layouts img {
+	width: 25%;
+} 
+/*.layout small {
+	font-size: 10%;
+}*/
+
+
+/*MAIN SECTION THREE WIREFRAMES*/
+.wireframes {
+	padding: 5px 15px;
+}
+
+.wireframes h1 {
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	font-size: 350%;
+}
+
+.wireframes p {
+	margin:15px;
+}
+.wireframes img {
+	width: 35%;
+}
+
+
+/*LAYOUTSTWO*/
+.layoutstwo {
+	padding: 5px 15px;
+}
+
+.layoutstwo h1 {
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	font-size: 500%;
+	border: 1px hidden #000000;
+}
+
+.layoutstwo p {
+	margin:15px;
+}
+.layoutstwo img {
+	width: 25%;
+} 
+
+/*CAMERA*/
+.camera {
+	padding: 5px 15px;
+
+}
+
+.camera h1 {
+/*	padding:10px;*/
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
+}
+
+
+
+
+/*CAMERA EX*/
+.sensorex {
+	padding: 5px 15px;
+}
+
+.sensorex h1 {
+/*	padding:10px;*/
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
+}
+.sensorex p {
 	margin:15px;
 }
 
 
-/*EDIT LATER*/
-/*MAIN SECTION THREE PROGRESS*/
-.edit {
+/*BUTTON*/
+.butt {
+   border: 1px;
+   background-color: gray;
+   height:250px;
+   width:250px;
+   cursor:pointer;
+   font-size: 25px;
+
+}
+
+.butt:hover {
+   color:white;
+}
+.buttons {
 	padding: 5px 15px;
 }
 
-.edit h1 {
+.buttons h1 {
+/*	padding:10px;*/
 	text-align: center;
 	font-family: 'perfectly amicable', sans-serif;
 	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
 }
-
-.edit p {
+.buttons p {
 	margin:15px;
 }
+
+/*BUTTONEX*/
+.buttonex {
+	padding: 5px 15px;
+}
+
+.buttonex h1 {
+/*	padding:10px;*/
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
+}
+.buttonex p {
+	margin:15px;
+}
+.buttonex img {
+	height:1.5%;
+	width: 1.5%;
+}
+/*photobutton*/
+.photobutton {
+	padding: 5px 15px;
+}
+
+.photobutton h1 {
+/*	padding:10px;*/
+	text-align: center;
+	font-family: 'perfectly amicable', sans-serif;
+	/*border: 1px solid #4D4646;*/
+	border: 1px hidden #000000; /*ADD BORDER OR NOT? DASHED/DOTTED/SOLID*/
+}
+.photobutton p {
+	margin:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
